@@ -9,3 +9,7 @@
 
 **Go through the list of Topics to be discussed once**
 
+## I have split the Tasks as per the days so that you can go through one task per day.
+
+* [Day1](https://github.com/DeadlyNoobie/TryHackMe-OWASPTop10/tree/main/Days/Day1)
+
